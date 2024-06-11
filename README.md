@@ -1,1 +1,100 @@
-# Business-Insights-360
+# Business Insights 360 of AtliQ Hardwares
+
+
+
+AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge 
+and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, 
+supply chain,Executive Management and marketing.
+
+I,Krunal,worked on this project by following the Codebasics PowerBi Course and The primary objectives and key achievements 
+for each perspective are outlined below and also used the following tools and techniques:
+
+## Finance View
+### Objectives
+1) Improve financial planning and budgeting processes.
+2) Enhance cost control and expense management.
+### Key Achievements
+1) Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
+2) Created benchmarking against last year and target goals for budgeting.
+
+## Sales View
+### Objectives
+1) Increase sales revenue and market share.
+2) Enhance customer relationship management.
+### Key Achievements
+1) Created customer and product overall sales performance report and unit economics.
+2) Identified sales trends and track KPIs
+
+## Supply Chain View
+### Objectives
+1) Optimize inventory management and reduce lead times.
+2) Enhance supplier relationships for cost savings.
+### Key Achievements
+1) Identified forecast accuracy % , net error % ,absolute error % trends 
+2) Key Metrices by customers and products demanding supply management.
+
+## Executive View
+### Objectives
+1) Provide an overview of the entire organization's performance.
+2) Enable data-driven decision-making for top management.
+### Key Achievements
+1) Developed an executive dashboard for real-time performance monitoring.
+2) Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
+
+## Marketing View
+### Objectives
+1) Increase brand visibility and customer engagement.
+2) Implement data-driven marketing strategies.
+### Key Achievements
+1) Created region and product wise overall market performance report and unit economics.
+2) Identified market trends and track KPIs
+
+## Tech Stacks:
+1) SQL
+2) PowerBi Desktop
+3) Excel
+4) DAX language
+5) DAX Studio (for report optimization and reduce file size.)
+6) Project charter file
+
+## PowerBI Techniques Learned:
+1) Asking the right questions before starting a project.
+2) Creating calculated columns.
+3) Creating measures using the DAX language.
+4) Data modeling.
+5) Using Bookmarks to switch between visuals.
+6) Page navigation with buttons.
+7) Preventing zero division errors using the divide function
+8) Dynamic titles based on applied filters.
+9) Using KPI indicators.
+10) Conditional formatting of visual values with icons or background colour.
+11) Data validation techniques.
+12) Publishing reports to Power BI services.
+13) Setting up a personal gateway for data auto-refresh.
+14) Creating PowerBi Apps.
+15) Collaborating, managing workspaces, and setting access permissions in Power BI services.
+
+## Business Related Terms
+1) Gross Margin,Gross Margin %
+2) Gross Sales , Gross Sales %
+3) Pre _ invoice deductions and Post _ invoice deductions.
+4) Net sales , Net Invoice Sales.
+5) Net Profit and Net Profit %
+6) COGS(cost of goods sold)
+7) YTG (year to go)
+8) YTD ( year to date)
+9) Direct ,retailer, consumer and distributors.
+
+## Soft Skills.
+1) Stakeholders mapping analysis.
+2) Effective communication with stakeholders feedback and management.
+3) Business and domain knowledge in sales,finance,marketing and supply chain.
+
+## Company Background:
+ AtliQ Hardware sells computers and accessories through retailers and direct distributors worldwide. They recently faced 
+ unexpected losses in their American store due to decisions based on surveys, intuition, and limited Excel analysis. To compete 
+ better, the company needs to build an analytics team for data-driven insights and decisions.
+
+## Conclusion
+This dashboard answers many business questions based on different scenerio.
+This report can be used to take data driven decision to make AtliQ more profitable.
