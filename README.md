@@ -1,6 +1,8 @@
 # Business Insights 360 of AtliQ Hardwares
 
-
+[Link To Live Interactive Dashboard](
+https://app.powerbi.com/view?r=eyJrIjoiOTIyNjUzMDItYjAxOC00NjNlLTg3ZTMtZTcyZjdiZTgyY2MwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+)
 
 AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge 
 and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, 
